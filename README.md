@@ -11,7 +11,7 @@ keilah-moore-8a277298
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KayCyber-30/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KayCyber-30/azure-network-protocols)
-
+- <b>Network File Shares and Permissions</b>
 <h2>🤳Connect with me:</h2>
 
 
