@@ -20,4 +20,4 @@ keilah-moore-8a277298
 
 
 
-[linkedin]: https://linkedin.com/in/keilah-moore-8a277298
+[linkedin]: www.linkedin.com/in/keilah-moore-8a277298
